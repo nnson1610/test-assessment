@@ -1,0 +1,20 @@
+{
+  "name": "technicalassessment",
+  "version": "1.0.0",
+  "description": "Technical Assessment",
+  "scripts": {
+    "dev": "nodemon --exec",
+    "test": "mocha tests/*.js",
+    "test-debug": "mocha --inspect-brk --inspect tests/*.js",
+    "test-coverage": "nyc --reporter=text mocha tests/*.js"
+  },
+  "author": "Son Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "nyc": "^14.1.1"
+  }
+}

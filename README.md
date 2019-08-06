@@ -15,8 +15,8 @@ The test assessment project for PyCo includes question 1 and question 3.
 `npm v5.8.0`
 `mocha ^6.2.0`
 
-## Notes
-Question 1: complexity O(n*m)
+## Complexity
+Question 1: O(n*m)
 
 ## Folder structure
 `--question1`: question1 content

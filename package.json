@@ -11,7 +11,7 @@
   "author": "Son Nguyen",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "moment": "^2.24.0"
   },
   "devDependencies": {
